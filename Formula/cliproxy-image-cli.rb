@@ -1,8 +1,8 @@
 class CliproxyImageCli < Formula
   desc "Codex-native CLI for generating and editing images through the local Codex OpenAI configuration."
   homepage "https://github.com/noooob-coder/cliproxy-image-cli"
-  url "https://registry.npmjs.org/cliproxy-image-cli/-/cliproxy-image-cli-0.2.3.tgz"
-  sha256 "a2397b9a25aeeabb53fc1540f4a3878080eabdfad52a9eada95408e7a07c9afc"
+  url "https://registry.npmjs.org/cliproxy-image-cli/-/cliproxy-image-cli-0.2.4.tgz"
+  sha256 "643356815eee63672e05710499018b6d65668c568d6ad9eb4838fdf68463b438"
   license "MIT"
   depends_on "node"
 
