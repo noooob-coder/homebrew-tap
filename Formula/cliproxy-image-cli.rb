@@ -2,7 +2,7 @@ class CliproxyImageCli < Formula
   desc "Generate and edit images through CLIProxyAPI"
   homepage "https://github.com/noooob-coder/cliproxy-image-cli"
   url "https://registry.npmjs.org/cliproxy-image-cli/-/cliproxy-image-cli-0.1.0.tgz"
-  sha256 "4009f31f30208b638d64b5ffbbca2c156b3d3e2167c8eb70cd6729d4f766ea4e"
+  sha256 "997311c36d8d7da352380016f34303084a833e3bd7ba7bffe93974dc6b9411be"
   license "MIT"
   depends_on "node"
 
